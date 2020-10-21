@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "firstName": "Dor",
+      "lastName": "Chen",
+      "age": "32",
+      "subjectId": 1,
+      "id": 1
+    },
+    {
+      "firstName": "Ran",
+      "lastName": "Markovich",
+      "age": "28",
+      "subjectId": 1,
+      "id": 2
+    },
+    {
+      "firstName": "Max",
+      "lastName": "Nudler",
+      "age": "22",
+      "subjectId": 2,
+      "id": 3
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Automation"
+    },
+    {
+      "id": 2,
+      "name": "Developer"
+    }
+  ]
+}
